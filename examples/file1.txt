@@ -1,0 +1,12 @@
+Ömer Yaslıtaş
+Sample txt file.
+For python for 
+
+
+data science practice repo
+chapter 3
+
+
+section 3
+topic is file handling
+...........
